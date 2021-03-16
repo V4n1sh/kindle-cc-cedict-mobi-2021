@@ -6,7 +6,7 @@ A near perfect version with both simplified chinese and traditional chinese supp
 
 Usage: copy the MOBI file to the dictionary folder via USB.
 
-[Detail (written in Chinese, translate by yourself.)](https://www.bilibili.com/read/cv10270113)
+[Detail (written in Chinese, use Google Translate by yourself.)](https://www.bilibili.com/read/cv10270113)
 
 Pictures:
 
