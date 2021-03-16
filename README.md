@@ -6,4 +6,8 @@ A near perfect version with both simplified chinese and traditional chinese supp
 
 Usage: copy the MOBI file to the dictionary folder via USB.
 
-![pic1][https://i.ibb.co/hVgThmX/1.jpg]
+Pictures:
+
+![pic1](https://i.ibb.co/hVgThmX/1.jpg)
+
+![pic2](https://i.ibb.co/x7Rhcxk/2.jpg)
